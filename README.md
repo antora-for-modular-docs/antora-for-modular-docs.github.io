@@ -1,2 +1,2 @@
 # antora-for-modular-docs.github.io
-Redirect https://antora-for-modular-docs.github.io to antora-for-modular-docs/
+Redirecttion from https://antora-for-modular-docs.github.io to https://antora-for-modular-docs.github.io/antora-for-modular-docs/
