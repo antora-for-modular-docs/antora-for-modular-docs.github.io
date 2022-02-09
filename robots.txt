@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://antora-for-modular-docs.github.io/antora-for-modular-docs/sitemap.xml
